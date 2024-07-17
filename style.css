@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(143, 123, 235);
+    color: rgb(196, 123, 123)
+}
+h1{
+    text-align:center ;
+    background-color: rgb(15, 189, 189);
+    color : rgb(30, 28, 30);
+}
+h2{
+    text-align:left ;
+    background-color: rgb(15, 41, 17);
+    color :rgb(224, 210, 210)
+}
+.center{
+    display: inline-block;
+}
